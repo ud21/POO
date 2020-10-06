@@ -1,1 +1,1 @@
-# POO
+Alunos: Guilherme Pontes; Rodrigo Felix.
